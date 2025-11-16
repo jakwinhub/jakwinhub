@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
 I am currently completing my studies in bioinformatics at Eberhardt-Karls-University of Tuebingen <br>42 is the answer to everything<br>
 
 # 💻 Tech Stack:
@@ -24,6 +23,6 @@ I am currently completing my studies in bioinformatics at Eberhardt-Karls-Univer
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=jakwinhub&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakwinhub&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=jakwinhub&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+<!-- ### 🔝 Top Contributed Repo
+ ![](https://github-contributor-stats.vercel.app/api?username=jakwinhub&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
